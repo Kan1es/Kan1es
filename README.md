@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет! Я Макс (@Kan1es) 🤖
 
-<!--
-**Kan1es/Kan1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Разработчик на Python | Мастер Автоматизации
 
-Here are some ideas to get you started:
+Создаю **функциональных и надёжных ботов**, чтобы решать задачи и автоматизировать рутину. Если код должен работать — он будет работать!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Мой Стек
+
+* **Язык:** `Python 🐍`
+* **Фреймворки для ботов:** `aiogram`, `discord.py`, работа с Telegram и Discord API.
+* **Интересы:** Автоматизация, Web Scraping, чистый код.
+
+---
+
+### 📬 Контакты
+
+* **[Telegram]**: [@Kan1es] ⬅️ *ОБЯЗАТЕЛЬНО ЗАМЕНИТЕ*
+
+[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Kan1es&show_icons=true&theme=dark)](https://github.com/Kan1es)
