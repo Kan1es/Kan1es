@@ -16,6 +16,6 @@
 
 ### 📬 Контакты
 
-* **[Telegram]**: [@Kan1es] ⬅️ *ОБЯЗАТЕЛЬНО ЗАМЕНИТЕ*
+* **[Telegram]**: [@Kan1es]
 
 [![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Kan1es&show_icons=true&theme=dark)](https://github.com/Kan1es)
