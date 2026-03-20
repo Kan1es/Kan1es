@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет! Я Kan1es 👋
 
-<!--
-**Kan1es/Kan1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Обо мне
+Я увлеченный разработчик, который любит создавать полезные инструменты и экспериментировать с новыми технологиями. Мой фокус — это написание чистого кода, автоматизация рутины и изучение современных веб-стеков.
 
-Here are some ideas to get you started:
+- 🔭 **Сейчас я работаю над:** Улучшением своих текущих проектов и изучением архитектуры сложных систем.
+- 🌱 **Изучаю:** Продвинутый TypeScript и нюансы backend-разработки.
+- ⚡ **Интересы:** Open Source, кибербезопасность и кастомные скрипты для автоматизации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Стек технологий
+
+| Направление | Инструменты |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Backend** | Node.js, Express |
+| **Инструменты** | Git, GitHub Actions, VS Code |
+| **Другое** | Написание скриптов, работа с API, автоматизация |
+
+---
+
+### 📫 Как со мной связаться
+* **GitHub:** [Kan1es](https://github.com/Kan1es)
+* *Здесь можно добавить ссылку на Telegram или Discord, если актуально*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kan1es&label=Profile%20views&color=0e75b6&style=flat" alt="Kan1es" />
+</p>
