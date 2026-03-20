@@ -22,7 +22,7 @@
 
 ### 📫 Как со мной связаться
 * **GitHub:** [Kan1es](https://github.com/Kan1es)
-* *Здесь можно добавить ссылку на Telegram или Discord, если актуально*
+* **Telegram** [Kan1es](https://t.me/kan1es#)
 
 ---
 
