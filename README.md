@@ -1,31 +1,27 @@
-# Привет! Я Kan1es 👋
+<img src="./assets/profile-illustration.png" width="30%" align="right" alt="Иллюстрация разработчика за рабочим столом с визуализацией компьютерного зрения">
 
-### 👨‍💻 Обо мне
-Я увлеченный разработчик, который любит создавать полезные инструменты и экспериментировать с новыми технологиями. Мой фокус — это написание чистого кода, автоматизация рутины и изучение современных веб-стеков.
+### Привет, я Макс 👋
 
-- 🔭 **Сейчас я работаю над:** Улучшением своих текущих проектов и изучением архитектуры сложных систем.
-- 🌱 **Изучаю:** Продвинутый TypeScript и нюансы backend-разработки.
-- ⚡ **Интересы:** Open Source, кибербезопасность и кастомные скрипты для автоматизации.
+**Пишу инструменты на Python для компьютерного зрения и автоматизации.**
 
----
+Работаю с данными и моделями, создаю API и небольшие интерфейсы для запуска и проверки результата.
 
-### 🛠 Стек технологий
-
-| Направление | Инструменты |
-| :--- | :--- |
-| **Frontend** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
-| **Backend** | Node.js, Express |
-| **Инструменты** | Git, GitHub Actions, VS Code |
-| **Другое** | Написание скриптов, работа с API, автоматизация |
-
----
-
-### 📫 Как со мной связаться
-* **GitHub:** [Kan1es](https://github.com/Kan1es)
-* **Telegram** [Kan1es](https://t.me/kan1es#)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kan1es&label=Profile%20views&color=0e75b6&style=flat" alt="Kan1es" />
+<p>
+  <img src="./assets/badges/python.svg" height="30" alt="Python">
+  <img src="./assets/badges/computer-vision.svg" height="30" alt="Computer Vision">
+  <img src="./assets/badges/automation.svg" height="30" alt="Automation">
 </p>
+
+<br clear="right">
+
+### Избранные проекты
+
+- **[Auto Layout AI](https://github.com/Kan1es/auto-layout-ai)** — локальный сервис для авторазметки изображений и подготовки YOLO-экспорта для CVAT.
+- **[Safety Harness](https://github.com/Kan1es/safety-harness)** — исследование и прототип детекции страховочных поясов на изображениях с помощью YOLO11s.
+- **[Encryptor Voice](https://github.com/Kan1es/encryptor_voice)** — Telegram-бот, который превращает голосовые сообщения и видеокружки в текст.
+
+### На связи
+
+Если хотите обсудить проект или задать вопрос по одному из репозиториев, напишите мне в Telegram.
+
+<a href="https://t.me/kan1es"><img src="./assets/badges/telegram.svg" height="32" alt="Написать в Telegram"></a>
