@@ -6,13 +6,13 @@
 
 Работаю с данными и моделями, создаю API и небольшие интерфейсы для запуска и проверки результата.
 
+<br clear="right">
+
 <p>
   <img src="./assets/badges/python.svg" height="30" alt="Python">
   <img src="./assets/badges/computer-vision.svg" height="30" alt="Computer Vision">
   <img src="./assets/badges/automation.svg" height="30" alt="Automation">
 </p>
-
-<br clear="right">
 
 ### Избранные проекты
 
